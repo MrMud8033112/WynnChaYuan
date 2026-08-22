@@ -1843,7 +1843,7 @@
   },
   "d79f279faf0c": {
    "src": "While Riftbound, Etheric Slash implodes your\nbound rift instead, damaging nearby enemies.",
-   "dst": "當玩家 裂隙繫身狀態時，\n裂界斬改為使你的裂隙坍縮，對敵方造成傷害。",
+   "dst": "當玩家處於裂隙繫身狀態時，\n裂界斬改為使你的裂隙坍縮，對敵方造成傷害。",
    "role": "desc",
    "kind": "block",
    "ctx": [
